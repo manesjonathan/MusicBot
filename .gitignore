@@ -1,0 +1,6 @@
+discord.log
+config.json
+.env
+py/majorify.py
+__pycache__/music_cog.cpython-311.pyc
+__pycache__/help_cog.cpython-311.pyc
